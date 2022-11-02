@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658842682661",
+    "firebase_url": "https://staff-management-37761-default-rtdb.firebaseio.com",
+    "project_id": "staff-management-37761",
+    "storage_bucket": "staff-management-37761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658842682661:android:94a7783ea79421620f86cc",
+        "android_client_info": {
+          "package_name": "com.example.demo_firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658842682661-mnk4hj6sj5a7aq3id8te3f7famb71u0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoILbSF3xKEBpsQU06tearZZY2oPXlcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658842682661-mnk4hj6sj5a7aq3id8te3f7famb71u0i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658842682661-otl5i4sbojqolqgll4v2dieg0onpm9nv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appClockin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
